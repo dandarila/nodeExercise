@@ -1,0 +1,23 @@
+{
+  "name": "npmexercise",
+  "version": "1.0.0",
+  "description": "exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Merien'",
+  "license": "ISC",
+  "dependencies": {
+    "hello": "gist:f6a547d535921143f65d2dd6d20623e2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandarila/nodeExercise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dandarila/nodeExercise/issues"
+  },
+  "homepage": "https://github.com/dandarila/nodeExercise#readme"
+}
